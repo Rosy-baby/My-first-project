@@ -5,7 +5,7 @@
 这是我学习前端的第一个仓库，用来练习 GitHub 和网页基础。
 
 ## 🔗 在线预览
-https://你的用户名.github.io/my-first-project
+https://Rosy-baby.github.io/my-first-project
 
 ## 📁 项目说明
 这个仓库目前是空的，接下来会放：
